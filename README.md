@@ -29,7 +29,7 @@ It provides an engaging way to understand how different algorithms work under th
 
 ## 📸 Preview  
 
-![Sorting Visualizer Screenshot](assets/screenshot.png)
+![Sorting Visualizer Screenshot](assets/visual.png)
 
 ---
 
