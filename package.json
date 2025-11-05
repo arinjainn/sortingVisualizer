@@ -1,0 +1,10 @@
+{
+  "name": "sortingvisualizer-ci",
+  "version": "1.0.0",
+  "description": "Sorting Visualizer CI/CD Demo",
+  "scripts": {
+    "start": "npx http-server -p 3000",
+    "test": "node ci/test-index.js",
+    "build": "node ci/build.js"
+  }
+}
